@@ -1,6 +1,8 @@
 ### from Hackerrank hourrank-19 conest
 
 [click here for question](https://www.hackerrank.com/contests/hourrank-19/challenges/recover-the-array)
+
+solution :
 ```js
 file = file.map(Number);
     var count =0;
